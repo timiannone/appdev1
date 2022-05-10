@@ -34,6 +34,10 @@ AZ-104 has been released. We will continue to monitor this repository in the sho
 @timiannone :+1: This PR looks great - it's ready to merge! :shipit:
 
 
+You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.
+Let's rename \*our-new-project\* to \*our-old-project\*.
+
+
 # Large Header
 
 > **THIS IS QUOTED TEXT, LEFTSIDE LINE.**
