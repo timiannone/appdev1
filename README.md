@@ -11,8 +11,9 @@
 ## Getting started
 
 [Deployment Instructions](#deployment-instructions) •
-[Links](#Links) •
-[Bibliography](#bibliography)
+[Code Block](#code-block) •
+[Links1](#Links1) •
+[Links2](#links2)
 
 
 # Deployment Instructions
@@ -25,7 +26,7 @@ AZ-104 has been released. We will continue to monitor this repository in the sho
 
 # Large Header
 
-> **SOME NOTES.**
+> **THIS IS QUOTED TEXT, LEFTSIDE LINE.**
 
 > **Microsoft is prioritizing cloud resources for Covid-19 support. You can read more here - [Update #2 on Microsoft cloud services continuity](https://azure.microsoft.com/en-us/blog/update-2-on-microsoft-cloud-services-continuity/). There is also an active discussion on the MCT Courseware Forum.**
 
@@ -33,7 +34,7 @@ AZ-104 has been released. We will continue to monitor this repository in the sho
 
 
 
-## Medium Header - 
+## Medium Header
 
 
 ### Small Header - with bullets
@@ -66,15 +67,37 @@ You can align cell contents with syntax like this:
 
 
 
-### Links
+### Code Block:
+```
+
+kind: Route
+apiVersion: route.openshift.io/v1
+metadata:
+  name: tim-service-f5hw
+  namespace: tim-ns3
+  labels:
+    app: tim-app-f5hw
+  annotations:
+    openshift.io/host.generated: 'true'
+spec:
+  host: tim-service-f5hw-tim-ns3.apps.ocp22.devlab.nt
+  to:
+    kind: Service
+    name: tim-service-f5hw
+    weight: 100
+  port:
+    targetPort: http
+  wildcardPolicy: None
+
+
+```
+
+### Links1
 
 - **Bullet 1** - plain link <https://microsoftlearning.github.io/AZ-103-MicrosoftAzureAdministrator/>
 
-### Bibliography
+### Links2
 
 - **Bullet 1** - plain link <https://microsoftlearning.github.io/AZ-103-MicrosoftAzureAdministrator/>
 
 
-
-
- 
