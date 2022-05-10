@@ -12,7 +12,7 @@
 
 [Deployment Instructions](#deployment-instructions) •
 [Links](#Links) •
-[Bibliograph](#bibliograph)
+[Bibliography](#bibliography)
 
 
 # Deployment Instructions
@@ -70,6 +70,10 @@ You can align cell contents with syntax like this:
 
 - **Bullet 1** - plain link <https://microsoftlearning.github.io/AZ-103-MicrosoftAzureAdministrator/>
 
+
+### Bibliography
+
+- **Bullet 1** - plain link <https://microsoftlearning.github.io/AZ-103-MicrosoftAzureAdministrator/>
 
 
 
