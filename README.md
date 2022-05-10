@@ -11,7 +11,8 @@
 ## Getting started
 
 [Deployment Instructions](#deployment-instructions) •
-[Links](#Links)
+[Links](#Links) •
+[Bibliograph](#bibliograph)
 
 
 # Deployment Instructions
