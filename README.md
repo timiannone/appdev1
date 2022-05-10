@@ -1,11 +1,9 @@
 
 # Tim's F5HW README.md
 
+@timiannone What do you think about these updates?
 
 ![MacDown Screenshot](https://github.com/timiannone/timiannone.github.io/blob/master/404-trooper-map.jpg?raw=true)
-
-
-@github/timiannone What do you think about these updates?
 
 
 **WELCOME, LINK TO GITHUB MARKDOWN HELP [github link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).**
@@ -24,7 +22,9 @@
 
 AZ-104 has been released. We will continue to monitor this repository in the short term, but please consider moving over to the new labs as soon as possible.
 
-
+## Emoji Ref
+[emoji reference](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+@timiannone :+1: This PR looks great - it's ready to merge! :shipit:
 
 
 # Large Header
