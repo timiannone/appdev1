@@ -5,7 +5,6 @@
 <!-- X                                                   X -->
 
 
-
 # Tim's F5HW README.md
 
 @timiannone What do you think about these updates?
@@ -13,8 +12,13 @@
 ![MacDown Screenshot](https://github.com/timiannone/timiannone.github.io/blob/master/404-trooper-map.jpg?raw=true)
 
 
+
 **WELCOME, LINK TO GITHUB MARKDOWN HELP [github link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).**
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## Getting started
 
@@ -23,21 +27,28 @@
 [Links1](#Links1) •
 [Links2](#links2)
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 # Deployment Instructions
 
-
 AZ-104 has been released. We will continue to monitor this repository in the short term, but please consider moving over to the new labs as soon as possible.
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## Emoji Ref
 [emoji reference](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 @timiannone :+1: This PR looks great - it's ready to merge! :shipit:
 
-
-You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.
-
-Let's rename \*our-new-project\* to \*our-old-project\*.
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 # Large Header
 
@@ -47,6 +58,10 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 
 > **There is a [Lab Recordings and Demos](https://github.com/MicrosoftLearning/Lab-Demo-Recordings) repo with links to videos of labs used in Microsoft Official Curriculum. The intent is to provide Microsoft Certified Trainers an easy way to access a non-audio version recording of hands-on labs used in the portfolio.**
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 ## Medium Header
@@ -57,6 +72,11 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 - **Bullet 1 - Bold text** - hidden link [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) repository
 - **Bullet 2** - text
 - **Bullet 3** - plain link <https://microsoftlearning.github.io/AZ-103-MicrosoftAzureAdministrator/>
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 ### Small Header - with lists
@@ -70,6 +90,13 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 		42. It doesn't matter what number you use, I will render them sequentially
 		1. So you might want to start each line with `1.` and let me sort it out
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 
 ### Small Header - with table
 You can align cell contents with syntax like this:
@@ -81,6 +108,10 @@ You can align cell contents with syntax like this:
 | zebra stripes | are neat        |            $1 |
 
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### Code Block:
 ```
@@ -106,6 +137,11 @@ spec:
 
 
 ```
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### Links1
 
