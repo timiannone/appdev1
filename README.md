@@ -70,7 +70,7 @@ You can align cell contents with syntax like this:
 
 - **Bullet 1** - plain link <https://microsoftlearning.github.io/AZ-103-MicrosoftAzureAdministrator/>
 
-### Bibliograph
+### Bibliography
 
 - **Bullet 1** - plain link <https://microsoftlearning.github.io/AZ-103-MicrosoftAzureAdministrator/>
 
